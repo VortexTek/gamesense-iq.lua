@@ -32,7 +32,6 @@ local misc_steam_presence = ui.new_checkbox("LUA", "B", "修改steam csgo狀態"
 local info = ui.new_checkbox("lua", "B", "\aFFFFE0FFiq.lua info")
 local info_text1 = ui.new_label("lua", "B", "\aFFFFE0FF 版本：\aFF0000FFdebug ")
 local info_text2 = ui.new_label("lua", "B", "\aFFFFE0FF 上次更新：\aF08080FF2022.10.31 ")
-local info_text3 = ui.new_label("lua", "B", "\aFFDAB9FF lua群：528473477 ")
 local text5 = ui.new_label("lua", "B", "\aA0FFFAFF=============[ iq.lua ]=============")
 local text6 = ui.new_label("lua", "B", "\aA0FFFAFF ")
 ui.set_visible(iq_indicator, false)
