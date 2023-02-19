@@ -8,7 +8,6 @@ local iq_mode1 = ui.new_combobox("lua", "B", "\a6495EDFFgame mode",{ "MM mode","
 local iq_mode2 = ui.new_combobox("lua", "B", "\a6495EDFFiq+ mode",{ "+iq legit","+iq rage"})
 local info = ui.new_checkbox("lua", "B", "\aD3D3D3FFiq.lua info")
 local info_text1 = ui.new_label("lua", "B", "\aD3D3D3FF 版本：alpha ")
-local info_text2 = ui.new_label("lua", "B", "\aD3D3D3FF 作者联系方式：810427573 ")
 local text5 = ui.new_label("lua", "B", "\aA0FFFAFF================[ iq.lua ]================")
 local text6 = ui.new_label("lua", "B", "\aA0FFFAFF ")
 ui.set_visible(iq_indicator, false)
